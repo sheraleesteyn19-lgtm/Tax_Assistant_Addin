@@ -1,0 +1,21 @@
+# PyCharm specific
+.idea/
+venv/
+*.iml
+
+# Python specific
+__pycache__/
+*.py[cod]
+
+# PyInstaller / Build output (Do not upload massive .exe files)
+build/
+dist/
+*.spec
+
+# Application Output (No client data or generated PDFs)
+Draft_Invoices/
+*.pdf
+
+# Excel Temp Files
+~$*.xlsx
+~$*.xlsm
