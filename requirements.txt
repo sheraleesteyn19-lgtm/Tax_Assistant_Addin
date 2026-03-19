@@ -1,0 +1,5 @@
+xlwings
+pandas
+reportlab
+pywin32
+pyinstaller
