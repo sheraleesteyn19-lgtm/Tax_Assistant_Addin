@@ -19,3 +19,4 @@ Draft_Invoices/
 # Excel Temp Files
 ~$*.xlsx
 ~$*.xlsm
+~$*.creds.json
